@@ -1,0 +1,44 @@
+.styled__form{
+    max-width: 600px;
+    background-color: #fff;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.index{
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container *{
+    font-size: 2rem;
+}
+
+.type{
+    padding: .4rem;
+    border: solid 1px #000;
+}
+
+.bug{
+    background-color: #A6B91A;
+}
+
+.water{
+    background-color: #6390F0;
+}
